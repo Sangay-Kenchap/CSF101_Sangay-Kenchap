@@ -11,3 +11,4 @@ age=input("Enter your age: ")
 print("you are",name , "and you are", age ,"years old")
 
 
+ 
